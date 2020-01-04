@@ -54,7 +54,7 @@ h2{
 }
 .content-wrap {
   max-width: 800px;
-  width: 85%;
+  width: 95%;
   margin: 0 auto;
   padding: 60px 0;
 }
@@ -79,7 +79,7 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F2FA2;
+  background: #5252ead4;
   color: #F7FFF7;
 }
 
@@ -118,10 +118,10 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #242582;
+  background: #5252ea4a;
 }
 .w-font{
-	color:#fff !important;
+	color:#343434 !important;
 }
 
 
@@ -137,11 +137,17 @@ header {
   width: 60%;
 }
 
+/*Image Library,
+------------------------------*/
+.gallery{
+	background: #f5e07e
+}
+
 
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #f5e07e;
   color: #F7FFF7;
 }
 .contact-list {
